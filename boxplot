@@ -1,0 +1,4 @@
+boxplot(mpg~am, data = mtcars,
+        xlab = "Transmission",
+        ylab = "Miles per Gallon",
+        main = "MPG by Transmission Type")
